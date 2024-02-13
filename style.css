@@ -1,11 +1,22 @@
 
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffcc;*/ /* Pale yellow background */
+    /*color: #333;
+    margin: 0;
+    padding: 0;
+}*/
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffcc; /* Pale yellow background */
+    background-image: url('img/background.jpg'); /* Path to your background image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Position the background image at the center */
+    background-repeat: no-repeat; /* Do not repeat the background image */
     color: #333;
     margin: 0;
     padding: 0;
 }
+
 
 .container {
     max-width: 800px;
