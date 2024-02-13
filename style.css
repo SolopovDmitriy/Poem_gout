@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffcc; /* Pale yellow background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    text-align: center; /* Center the text horizontally */
+}
+
+.poetry {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    display: inline-block; /* Ensure the container */
+    color: blue; /* Set the text color to blue */
+}
+
+.title_poem_gout {
+    color: darkred; /* Set the text color to blue */
+}
